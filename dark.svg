@@ -180,19 +180,19 @@
       <g class="mono" font-size="14">
         <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.5s" fill="freeze"/>
           <text x="496" y="215" fill="url(#accentGrad)" font-weight="700">▸ Location</text>
-          <text x="636" y="215" fill="#94A3B8">[ add your location ]</text></g>
+          <text x="636" y="215" fill="#94A3B8">Maharashtra, India.</text></g>
         <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.5s" fill="freeze"/>
           <text x="496" y="243" fill="url(#accentGrad)" font-weight="700">▸ Education</text>
-          <text x="636" y="243" fill="#94A3B8">[ add your education ]</text></g>
+          <text x="636" y="243" fill="#94A3B8">BCA — AI & Data Science</text></g>
         <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.5s" fill="freeze"/>
           <text x="496" y="271" fill="url(#accentGrad)" font-weight="700">▸ Focus</text>
           <text x="636" y="271" fill="#94A3B8">AI, Data Science &amp; Cloud</text></g>
         <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.5s" fill="freeze"/>
           <text x="496" y="299" fill="url(#accentGrad)" font-weight="700">▸ Portfolio</text>
-          <text x="636" y="299" fill="#94A3B8">[ add your portfolio link ]</text></g>
+          <text x="636" y="299" fill="#94A3B8">github.com/nupinjangid</text></g>
         <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.5s" fill="freeze"/>
           <text x="496" y="327" fill="url(#accentGrad)" font-weight="700">▸ Email</text>
-          <text x="636" y="327" fill="#94A3B8">[ add your email ]</text></g>
+          <text x="636" y="327" fill="#94A3B8">nupinjangid21@gmail.com</text></g>
       </g>
 
       <!-- skills -->
